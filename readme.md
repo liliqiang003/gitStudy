@@ -5,3 +5,4 @@
 4. git branch <name> 创建分支
 5. git checkout <name> 切换分支
 6. git branch -d <name> 删除分支
+7. Create a new branch is quick AND simple
