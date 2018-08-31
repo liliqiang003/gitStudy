@@ -1,4 +1,4 @@
-##git 学习
+## git 学习
 1. git checkout -b dev 创建并切换到dev分支
 2. git merge dev 合并dev分支到当前分支
 3. git branch 查看分支
